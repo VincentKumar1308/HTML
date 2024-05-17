@@ -1,0 +1,22 @@
+
+body
+{
+    background-color: #135c7e;
+    height: 100%;
+    width: 100%;
+}
+.container1
+{
+    display: flex;
+    margin-left: 37%;
+    /* margin: 20%;
+    align-items: center;
+    display: flex;
+    justify-content: center; */
+}
+#canvas
+{
+    margin-top: 10px;
+    align-items: center;
+    padding: 5%;
+}
